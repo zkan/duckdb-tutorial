@@ -1,0 +1,2 @@
+# duckdb-tutorial
+DuckDB Tutorial
